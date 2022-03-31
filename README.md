@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu portifólio
 
-Ainda estou desenvolvendo, mas, logo menos fica melhor.
+Página em desenvolvimento.
 <!-- 
 You can use the [editor on GitHub](https://github.com/Jumbeba/Jumbeba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
